@@ -16,7 +16,7 @@ This quest is to migrate the [ENS Subgraph](https://docs.ens.domains/contract-ap
 
 # Quest Info
 
-| Category         | Skill Level                          | Time required (hours) | Max Participants | Reward                             | Status |
+| Category         | Skill Levesdl                          | Time required (hours) | Max Participants | Reward                             | Status |
 | ---------------- | ------------------------------------ | --------------------- | ---------------- | ---------------------------------- | ------ |
 | Squid Deployment | $\textcolor{green}{\textsf{Intermediate}}$ | ~40                    | 5                | $\textcolor{red}{\textsf{2000tSQD}}$ | open   |
 
